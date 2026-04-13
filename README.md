@@ -7,4 +7,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/mgib954/ishaque_s_leetcodes_submission/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/mgib954/ishaque_s_leetcodes_submission/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
