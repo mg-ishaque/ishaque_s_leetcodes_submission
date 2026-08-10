@@ -13,4 +13,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/mgib954/ishaque_s_leetcodes_submission/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/mgib954/ishaque_s_leetcodes_submission/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/mgib954/ishaque_s_leetcodes_submission/tree/master/0182-duplicate-emails) |
+| [0184-department-highest-salary](https://github.com/mgib954/ishaque_s_leetcodes_submission/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
